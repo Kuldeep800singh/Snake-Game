@@ -1,8 +1,7 @@
 # Snake-Game
 It is a smiple snake game created using c++ & SFML library
 
-## Setup
-- Download and install
+## Setups
 - clone this git repo
     - `git clone https://github.com/Kuldeep800singh/Snake-Game.git`
 - Downlaod & Install Latest Visual Studio not Code one
